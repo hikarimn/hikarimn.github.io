@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.cc18b737.chunk.css",
-    "main.js": "/static/js/main.cdcce5ad.chunk.js",
-    "main.js.map": "/static/js/main.cdcce5ad.chunk.js.map",
+    "main.css": "/static/css/main.fb59ffc6.chunk.css",
+    "main.js": "/static/js/main.45695b0b.chunk.js",
+    "main.js.map": "/static/js/main.45695b0b.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
     "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
     "static/css/2.94155858.chunk.css": "/static/css/2.94155858.chunk.css",
-    "static/js/2.6bbfb6fd.chunk.js": "/static/js/2.6bbfb6fd.chunk.js",
-    "static/js/2.6bbfb6fd.chunk.js.map": "/static/js/2.6bbfb6fd.chunk.js.map",
+    "static/js/2.a13ac72d.chunk.js": "/static/js/2.a13ac72d.chunk.js",
+    "static/js/2.a13ac72d.chunk.js.map": "/static/js/2.a13ac72d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.af5f7a24430dc79a28f49bd78dd443af.js": "/precache-manifest.af5f7a24430dc79a28f49bd78dd443af.js",
+    "precache-manifest.e6b8cb95c189d9f19635308b17352934.js": "/precache-manifest.e6b8cb95c189d9f19635308b17352934.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.94155858.chunk.css.map": "/static/css/2.94155858.chunk.css.map",
-    "static/css/main.cc18b737.chunk.css.map": "/static/css/main.cc18b737.chunk.css.map",
+    "static/css/main.fb59ffc6.chunk.css.map": "/static/css/main.fb59ffc6.chunk.css.map",
     "static/media/602_final.pdf": "/static/media/602_final.7bb89d97.pdf",
     "static/media/Alesandra.ttf": "/static/media/Alesandra.e190c94b.ttf",
-    "static/media/Apple Google Facebook syllabus 2018.pdf": "/static/media/Apple Google Facebook syllabus 2018.62237b3d.pdf",
     "static/media/index.css": "/static/media/roboto-latin-900italic.bc833e72.woff",
+    "static/media/Apple Google Facebook syllabus 2018.pdf": "/static/media/Apple Google Facebook syllabus 2018.62237b3d.pdf",
     "static/media/DesigningCommunity.pdf": "/static/media/DesigningCommunity.5f9840cf.pdf",
     "static/media/Education_CCT.pdf": "/static/media/Education_CCT.a0c26596.pdf",
     "static/media/HelloSanttiny.ttf": "/static/media/HelloSanttiny.1697951c.ttf",
@@ -26,7 +26,11 @@
     "static/media/arhi1.pdf": "/static/media/arhi1.3e7eafed.pdf",
     "static/media/arhi2.pdf": "/static/media/arhi2.7492d954.pdf",
     "static/media/budgetapp.jpg": "/static/media/budgetapp.103251ab.jpg",
+    "static/media/framed_spring.gif": "/static/media/framed_spring.82109fb6.gif",
+    "static/media/framed_vsco_c1.gif": "/static/media/framed_vsco_c1.258f5e78.gif",
     "static/media/resume_mine.pdf": "/static/media/resume_mine.791c5de9.pdf",
-    "static/media/smarthire.jpg": "/static/media/smarthire.2bb05ae3.jpg"
+    "static/media/smarthire.jpg": "/static/media/smarthire.2bb05ae3.jpg",
+    "static/media/spring_memories.gif": "/static/media/spring_memories.9ed5a6cf.gif",
+    "static/media/summer_memories.gif": "/static/media/summer_memories.9c416cc8.gif"
   }
 }

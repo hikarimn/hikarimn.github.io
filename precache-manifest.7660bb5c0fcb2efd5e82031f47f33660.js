@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9196bd93b1c9a56011fb694ff22a6363",
+    "revision": "04a55264f1fb98a700e5958cc91245aa",
     "url": "/index.html"
   },
   {
-    "revision": "e77b3903f9e91f96b8ea",
+    "revision": "2abc573cc265538c83b8",
     "url": "/static/css/2.94155858.chunk.css"
   },
   {
-    "revision": "30d64cce0e011fcb2258",
-    "url": "/static/css/main.a8732d08.chunk.css"
+    "revision": "a8439bbe9e049a896034",
+    "url": "/static/css/main.cc18b737.chunk.css"
   },
   {
-    "revision": "e77b3903f9e91f96b8ea",
-    "url": "/static/js/2.ad87933f.chunk.js"
+    "revision": "2abc573cc265538c83b8",
+    "url": "/static/js/2.10b860e6.chunk.js"
   },
   {
-    "revision": "30d64cce0e011fcb2258",
-    "url": "/static/js/main.96dde7a4.chunk.js"
+    "revision": "a8439bbe9e049a896034",
+    "url": "/static/js/main.ac389554.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -28,8 +28,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/602_final.7bb89d97.pdf"
   },
   {
+    "revision": "e190c94bf12348cf002addc807d01897",
+    "url": "/static/media/Alesandra.e190c94b.ttf"
+  },
+  {
     "revision": "62237b3d419199cb7bd2c360c8b5aa37",
     "url": "/static/media/Apple Google Facebook syllabus 2018.62237b3d.pdf"
+  },
+  {
+    "revision": "e1a0240e64ae3d0bf3af87b1c27bbf27",
+    "url": "/static/media/Brittanya.e1a0240e.ttf"
   },
   {
     "revision": "5f9840cf5007a74e5f96990eaa742d2c",
@@ -40,8 +48,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Education_CCT.a0c26596.pdf"
   },
   {
+    "revision": "1697951cb8a4bf15e6f23de37fcfc935",
+    "url": "/static/media/HelloSanttiny.1697951c.ttf"
+  },
+  {
     "revision": "ed14b61cbad30f677350ca2df2bce852",
     "url": "/static/media/Social_Media.ed14b61c.pdf"
+  },
+  {
+    "revision": "a6ecda9b57410c0590c0c93e6a052b34",
+    "url": "/static/media/Southampton.a6ecda9b.ttf"
   },
   {
     "revision": "53f6c0ce9873110024c553a501a7c78d",

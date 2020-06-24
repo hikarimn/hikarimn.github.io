@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9b4d504cd56e9a95ecad1ea35a4061b0",
+    "revision": "53ae4393d14a93e09480ab0f46e105c9",
     "url": "/index.html"
   },
   {
@@ -8,15 +8,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.94155858.chunk.css"
   },
   {
-    "revision": "b13912836727b10fd820",
-    "url": "/static/css/main.fb59ffc6.chunk.css"
+    "revision": "166c69ae88092027673e",
+    "url": "/static/css/main.8edc8a58.chunk.css"
   },
   {
     "revision": "0085aff30343910b4416",
     "url": "/static/js/2.a13ac72d.chunk.js"
   },
   {
-    "revision": "b13912836727b10fd820",
+    "revision": "166c69ae88092027673e",
     "url": "/static/js/main.45695b0b.chunk.js"
   },
   {
@@ -32,24 +32,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Alesandra.e190c94b.ttf"
   },
   {
-    "revision": "59b09c4177ce6eade7e8389d8d585d51",
-    "url": "/static/media/Ammanda.59b09c41.ttf"
+    "revision": "d4bb617dd4d52c1ac69b309ed1a9e961",
+    "url": "/static/media/Amiri-Bold.d4bb617d.ttf"
+  },
+  {
+    "revision": "ca4550ad2edcc95c1086266f83616636",
+    "url": "/static/media/Amiri-Regular.ca4550ad.ttf"
+  },
+  {
+    "revision": "ad705d08c633b54049e67c19e4430d8d",
+    "url": "/static/media/Angelwine.ad705d08.ttf"
   },
   {
     "revision": "62237b3d419199cb7bd2c360c8b5aa37",
     "url": "/static/media/Apple Google Facebook syllabus 2018.62237b3d.pdf"
-  },
-  {
-    "revision": "a0a9c4f42c13b4afcf14f4ce81873644",
-    "url": "/static/media/BLACKJAR.a0a9c4f4.TTF"
-  },
-  {
-    "revision": "e1a0240e64ae3d0bf3af87b1c27bbf27",
-    "url": "/static/media/Brittanya.e1a0240e.ttf"
-  },
-  {
-    "revision": "a6d4117713ce7ceff9ccbfdbea87dafb",
-    "url": "/static/media/Dalgona.a6d41177.ttf"
   },
   {
     "revision": "5f9840cf5007a74e5f96990eaa742d2c",
@@ -64,28 +60,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/HelloSanttiny.1697951c.ttf"
   },
   {
-    "revision": "6ea441cf6e71586c735f1d8adec4d18b",
-    "url": "/static/media/Marigold-rGJB.6ea441cf.ttf"
-  },
-  {
-    "revision": "7a305c37c258093e8d1a2b966c305996",
-    "url": "/static/media/Orchide.7a305c37.ttf"
-  },
-  {
-    "revision": "d0217af05ec95a03cac240d5878ada3d",
-    "url": "/static/media/Parfait.d0217af0.ttf"
-  },
-  {
     "revision": "ed14b61cbad30f677350ca2df2bce852",
     "url": "/static/media/Social_Media.ed14b61c.pdf"
   },
   {
     "revision": "a6ecda9b57410c0590c0c93e6a052b34",
     "url": "/static/media/Southampton.a6ecda9b.ttf"
-  },
-  {
-    "revision": "38938d233fc3b4db386caa14de511a8a",
-    "url": "/static/media/Summer.38938d23.ttf"
   },
   {
     "revision": "53f6c0ce9873110024c553a501a7c78d",
@@ -110,10 +90,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "258f5e78223cf336c9c20f9a311d881b",
     "url": "/static/media/framed_vsco_c1.258f5e78.gif"
-  },
-  {
-    "revision": "e5e6d1d98a94fcad3f80a78016adeb6b",
-    "url": "/static/media/melisa.e5e6d1d9.ttf"
   },
   {
     "revision": "791c5de9efdf8bc95a807a624f19c5ed",

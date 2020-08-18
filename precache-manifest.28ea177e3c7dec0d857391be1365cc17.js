@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5035640d1073c8ab0856477ffb22e072",
+    "revision": "4ac33f2c974987a8780f1b8a8573f0ad",
     "url": "/index.html"
   },
   {
-    "revision": "38cdf79c158052b2fbe0",
+    "revision": "e8bd43ab861ea5bb4e9f",
     "url": "/static/css/2.94155858.chunk.css"
   },
   {
-    "revision": "358c4d5cf7eb95fd3678",
+    "revision": "951d309aee0d46a4e1f0",
     "url": "/static/css/main.3c5eb9b7.chunk.css"
   },
   {
-    "revision": "38cdf79c158052b2fbe0",
-    "url": "/static/js/2.246f2467.chunk.js"
+    "revision": "e8bd43ab861ea5bb4e9f",
+    "url": "/static/js/2.163ca861.chunk.js"
   },
   {
-    "revision": "358c4d5cf7eb95fd3678",
-    "url": "/static/js/main.3dfce009.chunk.js"
+    "revision": "951d309aee0d46a4e1f0",
+    "url": "/static/js/main.dcd3d412.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -100,8 +100,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/pandemics_paper.7fad5094.pdf"
   },
   {
-    "revision": "791c5de9efdf8bc95a807a624f19c5ed",
-    "url": "/static/media/resume_mine.791c5de9.pdf"
+    "revision": "b02608d1c5b3127ba2417846f649a745",
+    "url": "/static/media/resume_mine.b02608d1.pdf"
   },
   {
     "revision": "987b84570ea69ee660455b8d5e91f5f1",

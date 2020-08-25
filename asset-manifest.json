@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.3c5eb9b7.chunk.css",
-    "main.js": "/static/js/main.dcd3d412.chunk.js",
-    "main.js.map": "/static/js/main.dcd3d412.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/css/2.94155858.chunk.css": "/static/css/2.94155858.chunk.css",
-    "static/js/2.163ca861.chunk.js": "/static/js/2.163ca861.chunk.js",
-    "static/js/2.163ca861.chunk.js.map": "/static/js/2.163ca861.chunk.js.map",
+    "main.css": "/static/css/main.272c8fe8.chunk.css",
+    "main.js": "/static/js/main.cf51b625.chunk.js",
+    "main.js.map": "/static/js/main.cf51b625.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.45a1b058.js",
+    "runtime-main.js.map": "/static/js/runtime-main.45a1b058.js.map",
+    "static/css/2.9029f456.chunk.css": "/static/css/2.9029f456.chunk.css",
+    "static/js/2.15b587c9.chunk.js": "/static/js/2.15b587c9.chunk.js",
+    "static/js/2.15b587c9.chunk.js.map": "/static/js/2.15b587c9.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.28ea177e3c7dec0d857391be1365cc17.js": "/precache-manifest.28ea177e3c7dec0d857391be1365cc17.js",
+    "precache-manifest.43120b821dde3e147109085b7a98bd15.js": "/precache-manifest.43120b821dde3e147109085b7a98bd15.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/2.94155858.chunk.css.map": "/static/css/2.94155858.chunk.css.map",
-    "static/css/main.3c5eb9b7.chunk.css.map": "/static/css/main.3c5eb9b7.chunk.css.map",
+    "static/css/2.9029f456.chunk.css.map": "/static/css/2.9029f456.chunk.css.map",
+    "static/css/main.272c8fe8.chunk.css.map": "/static/css/main.272c8fe8.chunk.css.map",
+    "static/js/2.15b587c9.chunk.js.LICENSE.txt": "/static/js/2.15b587c9.chunk.js.LICENSE.txt",
     "static/media/410_paper.pdf": "/static/media/410_paper.cefe579b.pdf",
     "static/media/602_final.pdf": "/static/media/602_final.7bb89d97.pdf",
     "static/media/Alesandra.ttf": "/static/media/Alesandra.e190c94b.ttf",
@@ -34,5 +35,12 @@
     "static/media/smarthire.jpg": "/static/media/smarthire.2bb05ae3.jpg",
     "static/media/spring_memories.gif": "/static/media/spring_memories.9ed5a6cf.gif",
     "static/media/summer_memories.gif": "/static/media/summer_memories.9c416cc8.gif"
-  }
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45a1b058.js",
+    "static/css/2.9029f456.chunk.css",
+    "static/js/2.15b587c9.chunk.js",
+    "static/css/main.272c8fe8.chunk.css",
+    "static/js/main.cf51b625.chunk.js"
+  ]
 }

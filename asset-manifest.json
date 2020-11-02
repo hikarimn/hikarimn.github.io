@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.272c8fe8.chunk.css",
-    "main.js": "/static/js/main.ebdb7b8c.chunk.js",
-    "main.js.map": "/static/js/main.ebdb7b8c.chunk.js.map",
+    "main.js": "/static/js/main.28e21e2a.chunk.js",
+    "main.js.map": "/static/js/main.28e21e2a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.45a1b058.js",
     "runtime-main.js.map": "/static/js/runtime-main.45a1b058.js.map",
     "static/css/2.9029f456.chunk.css": "/static/css/2.9029f456.chunk.css",
-    "static/js/2.90e1e333.chunk.js": "/static/js/2.90e1e333.chunk.js",
-    "static/js/2.90e1e333.chunk.js.map": "/static/js/2.90e1e333.chunk.js.map",
+    "static/js/2.48f0fdda.chunk.js": "/static/js/2.48f0fdda.chunk.js",
+    "static/js/2.48f0fdda.chunk.js.map": "/static/js/2.48f0fdda.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.efd4f8855b00777f6c5022b533b22cb4.js": "/precache-manifest.efd4f8855b00777f6c5022b533b22cb4.js",
+    "precache-manifest.e8a63e698cb6bf2749bc43084c9f7b2c.js": "/precache-manifest.e8a63e698cb6bf2749bc43084c9f7b2c.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.9029f456.chunk.css.map": "/static/css/2.9029f456.chunk.css.map",
     "static/css/main.272c8fe8.chunk.css.map": "/static/css/main.272c8fe8.chunk.css.map",
-    "static/js/2.90e1e333.chunk.js.LICENSE.txt": "/static/js/2.90e1e333.chunk.js.LICENSE.txt",
+    "static/js/2.48f0fdda.chunk.js.LICENSE.txt": "/static/js/2.48f0fdda.chunk.js.LICENSE.txt",
     "static/media/410_paper.pdf": "/static/media/410_paper.cefe579b.pdf",
     "static/media/602_final.pdf": "/static/media/602_final.7bb89d97.pdf",
     "static/media/Alesandra.ttf": "/static/media/Alesandra.e190c94b.ttf",
@@ -30,6 +30,7 @@
     "static/media/budgetapp.jpg": "/static/media/budgetapp.103251ab.jpg",
     "static/media/framed_spring.gif": "/static/media/framed_spring.82109fb6.gif",
     "static/media/framed_vsco_c1.gif": "/static/media/framed_vsco_c1.258f5e78.gif",
+    "static/media/line_stamps.PNG": "/static/media/line_stamps.acf775cb.PNG",
     "static/media/pandemics_paper.pdf": "/static/media/pandemics_paper.7fad5094.pdf",
     "static/media/resume_mine.pdf": "/static/media/resume_mine.b02608d1.pdf",
     "static/media/smarthire.jpg": "/static/media/smarthire.2bb05ae3.jpg",
@@ -39,8 +40,8 @@
   "entrypoints": [
     "static/js/runtime-main.45a1b058.js",
     "static/css/2.9029f456.chunk.css",
-    "static/js/2.90e1e333.chunk.js",
+    "static/js/2.48f0fdda.chunk.js",
     "static/css/main.272c8fe8.chunk.css",
-    "static/js/main.ebdb7b8c.chunk.js"
+    "static/js/main.28e21e2a.chunk.js"
   ]
 }
